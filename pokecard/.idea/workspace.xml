@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d089b1d1-7067-481c-a81c-91ae41b6e1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Card/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/forms/PokemonForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/forms/PokemonForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Card/ChildCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hooks/Axios/Axios.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Card/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Card/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/forms/PokemonForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/forms/PokemonForm.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -50,7 +50,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645829895831</updated>
-      <workItem from="1645829901687" duration="5190000" />
+      <workItem from="1645829901687" duration="5402000" />
+      <workItem from="1646171489338" duration="304000" />
+      <workItem from="1647015178938" duration="227000" />
+      <workItem from="1647308605593" duration="3235000" />
+      <workItem from="1647312813312" duration="1591000" />
     </task>
     <servers />
   </component>
